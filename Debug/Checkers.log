@@ -1,0 +1,10 @@
+﻿  Checker.cpp
+c:\users\marek\onedrive\pulpit\checkers\checkers\checker.cpp(34): warning C4101: "a": lokalna zmienna, do której nie istnieje odwołanie
+  Figure.cpp
+  Queen.cpp
+c:\users\marek\onedrive\pulpit\checkers\checkers\queen.cpp(50): warning C4101: "a": lokalna zmienna, do której nie istnieje odwołanie
+  coronation.cpp
+  main.cpp
+c:\users\marek\onedrive\pulpit\checkers\checkers\main.cpp(308): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Generowanie kodu...
+  Checkers.vcxproj -> C:\Users\marek\OneDrive\Pulpit\Checkers\Checkers\Debug\Checkers.exe
